@@ -119,6 +119,7 @@ Si agregan complejidad sin valor → se apagan.
 
 ## Estructura del Proyecto
 
+```text
 00_START_HERE/
 01_STRATEGY/
 02_MVP_EXECUTION/
@@ -132,6 +133,7 @@ Si agregan complejidad sin valor → se apagan.
 09_FINANCE_RUNWAY/
 10_SCENARIOS_2026/
 99_ARCHIVE/
+```
 Esta estructura no es decorativa.
 Es un sistema de control cognitivo y operativo.
 
